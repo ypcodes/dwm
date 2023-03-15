@@ -2,8 +2,8 @@ _pkgname=dwm
 pkgname=$_pkgname-larbs-git
 pkgver=6.2.r1888.0ac09e0
 pkgrel=1
-pkgdesc="Luke's build of dwm"
-url=https://github.com/LukeSmithxyz/dwm
+pkgdesc="My fork Luke's build of dwm"
+url=https://github.com/ypcodes/dwm
 arch=(i686 x86_64)
 license=(MIT)
 makedepends=(git)
@@ -13,7 +13,7 @@ optdepends=(
 	'st: terminal emulator')
 provides=($_pkgname)
 conflicts=($_pkgname)
-source=(git+https://github.com/LukeSmithxyz/dwm)
+source=(git+https://github.com/ypcodes/dwm)
 sha256sums=('SKIP')
 
 pkgver() {
