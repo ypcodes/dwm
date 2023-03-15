@@ -1,4 +1,4 @@
-# Luke's build of dwm
+# My fork of Luke's build of dwm
 
 ## FAQ
 
@@ -23,6 +23,8 @@ I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 - [shiftview](https://dwm.suckless.org/patches/nextprev/): Cycle through tags (<kbd>super+g/;</kbd>).
 - [vanitygaps](https://dwm.suckless.org/patches/vanitygaps/): Gaps allowed across all layouts.
 - [swallow patch](https://dwm.suckless.org/patches/swallow/): if a program run from a terminal would make it inoperable, it temporarily takes its place to save space.
+- Preview tag when cursor is placed on it.
+- Layout will set per tag.
 
 
 ## Installation for newbs
