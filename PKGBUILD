@@ -1,6 +1,6 @@
 _pkgname=dwm
-pkgname=$_pkgname-larbs-git
-pkgver=6.2.r1888.0ac09e0
+pkgname=$_pkgname-peng-git
+pkgver=6.4.r1924.644c57e
 pkgrel=1
 pkgdesc="My fork Luke's build of dwm"
 url=https://github.com/ypcodes/dwm
